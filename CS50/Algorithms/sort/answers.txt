@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: O_sort1 > OMEGA_sort1
+
+sort2 uses: Merge sort
+
+How do you know?: O_sort2 == OMEGA_sort2 < O_sort3 == OMEGA_sort3
+
+sort3 uses: Selection sort
+
+How do you know?: O_sort2 == OMEGA_sort2 < O_sort3 == OMEGA_sort3
